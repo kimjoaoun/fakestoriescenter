@@ -45,7 +45,8 @@ defmodule Fsc.MixProject do
       {:gettext, "~> 0.18"},
       {:jason, "~> 1.2"},
       {:plug_cowboy, "~> 2.5"},
-      {:guardian, "~> 2.0"}
+      {:guardian, "~> 2.0"},
+      {:hound, "~> 1.0"}
     ]
   end
 
